@@ -1,0 +1,6 @@
+interface:
+  display_name: "Cancer Multiomics Journal Monitor"
+  short_description: "Monthly Excel report for cancer multi-omics journal monitoring"
+  icon_small: "./assets/journal-monitor-small.png"
+  icon_large: "./assets/journal-monitor.png"
+  default_prompt: "Use $cancer-multiomics-journal-monitor to collect the latest 30 days of cancer-related multi-omics papers from the configured journals and generate the Excel report in the current workspace."
