@@ -1,0 +1,154 @@
+[
+  {
+    "journal_name": "Cancer Cell",
+    "publisher": "Cell Press",
+    "official_toc_url": "https://www.cell.com/cancer-cell/home",
+    "latest_url": "https://www.cell.com/cancer-cell/current-issue",
+    "search_url": "https://www.cell.com/cancer-cell/issues",
+    "pubmed_journal_name": "Cancer Cell"
+  },
+  {
+    "journal_name": "Cancer Discovery",
+    "publisher": "AACR",
+    "official_toc_url": "https://aacrjournals.org/cancerdiscovery",
+    "latest_url": "https://aacrjournals.org/cancerdiscovery/issue",
+    "search_url": "https://aacrjournals.org/cancerdiscovery/issue",
+    "pubmed_journal_name": "Cancer Discovery"
+  },
+  {
+    "journal_name": "Annals of Oncology",
+    "publisher": "Elsevier",
+    "official_toc_url": "https://www.annalsofoncology.org/",
+    "latest_url": "https://www.annalsofoncology.org/current",
+    "search_url": "https://www.annalsofoncology.org/issues",
+    "pubmed_journal_name": "Annals of Oncology"
+  },
+  {
+    "journal_name": "Journal of the National Cancer Institute",
+    "publisher": "Oxford Academic",
+    "official_toc_url": "https://academic.oup.com/jnci",
+    "latest_url": "https://academic.oup.com/jnci/issue",
+    "search_url": "https://academic.oup.com/jnci/issue-archive",
+    "pubmed_journal_name": "Journal of the National Cancer Institute"
+  },
+  {
+    "journal_name": "Nature Cancer",
+    "publisher": "Springer Nature",
+    "official_toc_url": "https://www.nature.com/natcancer/",
+    "latest_url": "https://www.nature.com/natcancer/research-articles",
+    "search_url": "https://www.nature.com/natcancer/articles",
+    "pubmed_journal_name": "Nature Cancer"
+  },
+  {
+    "journal_name": "Cancer Research",
+    "publisher": "AACR",
+    "official_toc_url": "https://aacrjournals.org/cancerres",
+    "latest_url": "https://aacrjournals.org/cancerres/issue",
+    "search_url": "https://aacrjournals.org/cancerres/issue",
+    "pubmed_journal_name": "Cancer Research"
+  },
+  {
+    "journal_name": "Clinical Cancer Research",
+    "publisher": "AACR",
+    "official_toc_url": "https://aacrjournals.org/clincancerres",
+    "latest_url": "https://aacrjournals.org/clincancerres/issue",
+    "search_url": "https://aacrjournals.org/clincancerres/issue",
+    "pubmed_journal_name": "Clinical Cancer Research"
+  },
+  {
+    "journal_name": "Nature Reviews Clinical Oncology",
+    "publisher": "Springer Nature",
+    "official_toc_url": "https://www.nature.com/nrclinonc/",
+    "latest_url": "https://www.nature.com/nrclinonc/reviews-and-analysis",
+    "search_url": "https://www.nature.com/nrclinonc/articles",
+    "pubmed_journal_name": "Nature Reviews Clinical Oncology"
+  },
+  {
+    "journal_name": "Nature Reviews Cancer",
+    "publisher": "Springer Nature",
+    "official_toc_url": "https://www.nature.com/nrc/",
+    "latest_url": "https://www.nature.com/nrc/reviews-and-analysis",
+    "search_url": "https://www.nature.com/nrc/articles",
+    "pubmed_journal_name": "Nature Reviews Cancer"
+  },
+  {
+    "journal_name": "Nature Reviews Drug Discovery",
+    "publisher": "Springer Nature",
+    "official_toc_url": "https://www.nature.com/nrd/",
+    "latest_url": "https://www.nature.com/nrd/reviews-and-analysis",
+    "search_url": "https://www.nature.com/nrd/articles",
+    "pubmed_journal_name": "Nature Reviews Drug Discovery"
+  },
+  {
+    "journal_name": "Nature Genetics",
+    "publisher": "Springer Nature",
+    "official_toc_url": "https://www.nature.com/ng/",
+    "latest_url": "https://www.nature.com/ng/research-articles",
+    "search_url": "https://www.nature.com/ng/articles",
+    "pubmed_journal_name": "Nature Genetics"
+  },
+  {
+    "journal_name": "Nature Medicine",
+    "publisher": "Springer Nature",
+    "official_toc_url": "https://www.nature.com/nm/",
+    "latest_url": "https://www.nature.com/nm/research-articles",
+    "search_url": "https://www.nature.com/nm/articles",
+    "pubmed_journal_name": "Nature Medicine"
+  },
+  {
+    "journal_name": "Nature Immunology",
+    "publisher": "Springer Nature",
+    "official_toc_url": "https://www.nature.com/ni/",
+    "latest_url": "https://www.nature.com/ni/articles",
+    "search_url": "https://www.nature.com/ni/articles",
+    "pubmed_journal_name": "Nature Immunology"
+  },
+  {
+    "journal_name": "Immunity",
+    "publisher": "Cell Press",
+    "official_toc_url": "https://www.cell.com/immunity/home",
+    "latest_url": "https://www.cell.com/immunity/current-issue",
+    "search_url": "https://www.cell.com/immunity/issues",
+    "pubmed_journal_name": "Immunity"
+  },
+  {
+    "journal_name": "Cell",
+    "publisher": "Cell Press",
+    "official_toc_url": "https://www.cell.com/cell/home",
+    "latest_url": "https://www.cell.com/cell/current-issue",
+    "search_url": "https://www.cell.com/cell/issues",
+    "pubmed_journal_name": "Cell"
+  },
+  {
+    "journal_name": "Science Translational Medicine",
+    "publisher": "Science",
+    "official_toc_url": "https://www.science.org/journal/stm",
+    "latest_url": "https://www.science.org/toc/stm/current",
+    "search_url": "https://www.science.org/toc/stm",
+    "pubmed_journal_name": "Science Translational Medicine"
+  },
+  {
+    "journal_name": "Nature Communications",
+    "publisher": "Springer Nature",
+    "official_toc_url": "https://www.nature.com/ncomms/",
+    "latest_url": "https://www.nature.com/ncomms/research-articles",
+    "search_url": "https://www.nature.com/ncomms/articles",
+    "pubmed_journal_name": "Nature Communications"
+  },
+  {
+    "journal_name": "Science Advances",
+    "publisher": "Science",
+    "official_toc_url": "https://www.science.org/journal/sciadv",
+    "latest_url": "https://www.science.org/toc/sciadv/current",
+    "search_url": "https://www.science.org/toc/sciadv",
+    "pubmed_journal_name": "Science Advances"
+  },
+  {
+    "journal_name": "Cell Reports",
+    "publisher": "Cell Press",
+    "official_toc_url": "https://www.cell.com/cell-reports/home",
+    "latest_url": "https://www.cell.com/cell-reports/current-issue",
+    "search_url": "https://www.cell.com/cell-reports/issues",
+    "pubmed_journal_name": "Cell Reports"
+  }
+]
